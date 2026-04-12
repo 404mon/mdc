@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/daemn/c_repo/mdc/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

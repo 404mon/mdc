@@ -1,0 +1,3 @@
+/home/daemn/c_repo/mdc/build/CMakeFiles/MDC.dir
+/home/daemn/c_repo/mdc/build/CMakeFiles/edit_cache.dir
+/home/daemn/c_repo/mdc/build/CMakeFiles/rebuild_cache.dir
