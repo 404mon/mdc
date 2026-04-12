@@ -10,5 +10,11 @@
   "command": "/usr/bin/cc  -I/home/daemn/c_repo/mdc/include -I/home/daemn/c_repo/mdc/deps -std=gnu11 -o CMakeFiles/MDC.dir/src/nuklear_impl.c.o -c /home/daemn/c_repo/mdc/src/nuklear_impl.c",
   "file": "/home/daemn/c_repo/mdc/src/nuklear_impl.c",
   "output": "CMakeFiles/MDC.dir/src/nuklear_impl.c.o"
+},
+{
+  "directory": "/home/daemn/c_repo/mdc/build",
+  "command": "/usr/bin/cc  -I/home/daemn/c_repo/mdc/include -I/home/daemn/c_repo/mdc/deps -std=gnu11 -o CMakeFiles/MDC.dir/src/md4c.c.o -c /home/daemn/c_repo/mdc/src/md4c.c",
+  "file": "/home/daemn/c_repo/mdc/src/md4c.c",
+  "output": "CMakeFiles/MDC.dir/src/md4c.c.o"
 }
 ]

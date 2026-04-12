@@ -153,6 +153,30 @@ src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MDC.dir/build.make CMakeFiles/MDC.dir/src/main.c.s
 .PHONY : src/main.c.s
 
+src/md4c.o: src/md4c.c.o
+.PHONY : src/md4c.o
+
+# target to build an object file
+src/md4c.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MDC.dir/build.make CMakeFiles/MDC.dir/src/md4c.c.o
+.PHONY : src/md4c.c.o
+
+src/md4c.i: src/md4c.c.i
+.PHONY : src/md4c.i
+
+# target to preprocess a source file
+src/md4c.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MDC.dir/build.make CMakeFiles/MDC.dir/src/md4c.c.i
+.PHONY : src/md4c.c.i
+
+src/md4c.s: src/md4c.c.s
+.PHONY : src/md4c.s
+
+# target to generate assembly for a file
+src/md4c.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MDC.dir/build.make CMakeFiles/MDC.dir/src/md4c.c.s
+.PHONY : src/md4c.c.s
+
 src/nuklear_impl.o: src/nuklear_impl.c.o
 .PHONY : src/nuklear_impl.o
 
@@ -189,6 +213,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/md4c.o"
+	@echo "... src/md4c.i"
+	@echo "... src/md4c.s"
 	@echo "... src/nuklear_impl.o"
 	@echo "... src/nuklear_impl.i"
 	@echo "... src/nuklear_impl.s"

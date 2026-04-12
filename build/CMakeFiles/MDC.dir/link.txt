@@ -1,1 +1,1 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/MDC.dir/link.d CMakeFiles/MDC.dir/src/main.c.o CMakeFiles/MDC.dir/src/nuklear_impl.c.o -o MDC  -lglfw /usr/lib/libGL.so /usr/lib/libGLU.so -lGLEW -lGL -lX11 -lGLU -lOpenGL -lm -ldl
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/MDC.dir/link.d CMakeFiles/MDC.dir/src/main.c.o CMakeFiles/MDC.dir/src/nuklear_impl.c.o CMakeFiles/MDC.dir/src/md4c.c.o -o MDC  -lglfw /usr/lib/libGL.so /usr/lib/libGLU.so -lGLEW -lGL -lX11 -lGLU -lOpenGL -lm -ldl

@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/daemn/c_repo/mdc/src/main.c" "CMakeFiles/MDC.dir/src/main.c.o" "gcc" "CMakeFiles/MDC.dir/src/main.c.o.d"
+  "/home/daemn/c_repo/mdc/src/md4c.c" "CMakeFiles/MDC.dir/src/md4c.c.o" "gcc" "CMakeFiles/MDC.dir/src/md4c.c.o.d"
   "/home/daemn/c_repo/mdc/src/nuklear_impl.c" "CMakeFiles/MDC.dir/src/nuklear_impl.c.o" "gcc" "CMakeFiles/MDC.dir/src/nuklear_impl.c.o.d"
   "" "MDC" "gcc" "CMakeFiles/MDC.dir/link.d"
   )

@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/MDC.dir/link.d"
   "CMakeFiles/MDC.dir/src/main.c.o"
   "CMakeFiles/MDC.dir/src/main.c.o.d"
+  "CMakeFiles/MDC.dir/src/md4c.c.o"
+  "CMakeFiles/MDC.dir/src/md4c.c.o.d"
   "CMakeFiles/MDC.dir/src/nuklear_impl.c.o"
   "CMakeFiles/MDC.dir/src/nuklear_impl.c.o.d"
   "MDC"

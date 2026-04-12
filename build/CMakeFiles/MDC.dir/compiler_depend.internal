@@ -3,6 +3,7 @@
 
 CMakeFiles/MDC.dir/src/main.c.o
  /home/daemn/c_repo/mdc/src/main.c
+ /home/daemn/c_repo/mdc/deps/md4c.h
  /home/daemn/c_repo/mdc/deps/nuklear.h
  /home/daemn/c_repo/mdc/deps/nuklear_glfw_gl3.h
  /usr/include/GL/gl.h

@@ -24,8 +24,11 @@ include_directories(
     ${GLEW_INCLUDE_DIRS}
 )
 
-# 3. Individua i sorgenti
-file(GLOB SOURCES "src/*.c")
+set(SOURCES 
+    src/main.c 
+    src/nuklear_impl.c 
+    src/md4c.c   # <--- AGGIUNGILO ESPLICITAMENTE SE IL GLOB FALLISCE
+)
 
 # 4. Crea l'eseguibile
 add_executable(MDC ${SOURCES})
